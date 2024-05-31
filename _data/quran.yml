@@ -7,15 +7,15 @@ alfatihah:
     ayah: 7
     audio_surah: https://server8.mp3quran.net/afs/001.mp3
     translation: Muhsin Khan
-    ar:
-      - text: بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
-      - text: اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ
-      - text: الرَّحْمٰنِ الرَّحِيْمِۙ      
-      - text: مٰلِكِ يَوْمِ الدِّيْنِۗ        
-      - text: اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ        
-      - text: اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ        
-      - text: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
-    en: 
+    text:
+      - بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
+      - اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ
+      - الرَّحْمٰنِ الرَّحِيْمِۙ      
+      - مٰلِكِ يَوْمِ الدِّيْنِۗ        
+      - اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ        
+      - اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ        
+      - صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+    translation: 
       - text: In the Name of Allah, the Most Gracious, the Most Merciful.
       - text: All the praises and thanks be to Allah, the Lord of the Alamin (mankind, jinn and all that exists).
       - text: The Most Gracious, the Most Merciful.
