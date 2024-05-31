@@ -8,9 +8,9 @@ permalink: /1
  <h3>{{ surah.latin_name }} ({{ surah.name }})</h3>
  <div class="mediPlayer"><audio class="listen" preload="none" data-size="18" src="{{ surah.audio_surah }}"></audio></div>
  <hr/>
- {% for ayah in item.ar %}
+ {% for ayah in item.ar_text %}
   <div class="uk-card uk-card-default uk-card-body uk-card-hover uk-margin">
-   <h3 class="uk-card-title ar">{{ ayah.text }}</h3> 
+   <h3 class="uk-card-title ar">{{ ayah }}</h3> 
   </div>
  {% endfor %}
 {% endfor %}
