@@ -1,5 +1,38 @@
-surah:
+1:
+  info:
+    name: The Opening
+    latin_name: Al-Fatihah
+    arabic_name: الفاتحة
+    ayah: "7"
+    type: "Makiyyah"
+    translation: Muhsin Khan
+    audio_surah: https://server8.mp3quran.net/afs/001.mp3
+  ar:
+    - text: بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
+    - text: اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ
+    - text: الرَّحْمٰنِ الرَّحِيْمِۙ      
+    - text: مٰلِكِ يَوْمِ الدِّيْنِۗ        
+    - text: اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ        
+    - text: اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ        
+    - text: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+  en: 
+    - text: In the Name of Allah, the Most Gracious, the Most Merciful.
+    - text: All the praises and thanks be to Allah, the Lord of the Alamin (mankind, jinn and all that exists).
+    - text: The Most Gracious, the Most Merciful.
+    - text: The Only Owner (and the Only Ruling Judge) of the Day of Recompense (i.e. the Day of Resurrection)
+    - text: You (Alone) we worship, and You (Alone) we ask for help (for each and everything).
+    - text: Guide us to the Straight Way.
+    - text: The Way of those on whom You have bestowed Your Grace , not (the way) of those who earned Your Anger (i.e. those who knew the Truth, but did not follow it) nor of those who went astray (i.e. those who did not follow the Truth out of ignorance and error).
+  audio_ayah: 
+    - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001001.mp3
+    - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001002.mp3
+    - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001003.mp3
+    - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001004.mp3
+    - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001005.mp3
+    - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001006.mp3
+    - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001007.mp3
 
+surah:
   - id: 1
     name: The Opening
     latin_name: Al-Fatihah
