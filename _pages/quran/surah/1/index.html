@@ -13,11 +13,28 @@ permalink: /1
   {% for item in item.ayah %}
  <div class="uk-card uk-card-default uk-card-hover uk-margin">
   <div class="uk-card-body">
-   <h3 class="uk-card-title ar" dir="rtl">{{ item.ar }}</h3>
-     <p>{{ item.en }}</p>
- <div class="mediPlayer">
-  <audio class="listen" preload="none" data-size="18" src="{{ item.ayah_audio }}"></audio>
+ <div class="uk-clearfix">
+    <div class="uk-float-left">
+        <div>
+         <p class="uk-label uk-text-bold">{{ item.ayah_number }}</p>
+        </div>
+    </div>
+    <div class="uk-float-right">
+        <div dir="rtl">
+         <h3 class="uk-card-title uk-text-bold">
+          {{ item.ar }}
+         </h3>  
+        </div>
+    </div>
  </div>   
+ <p>{{ item.en }}</p>
+  </div>
+  <div class="uk-card-footer">
+   <ul class="uk-iconnav">
+    <li><div class="mediPlayer"><audio class="listen" preload="none" data-size="18" src="{{ item.ayah_audio }}"></audio></div></li>
+    <li><a class="uk-text-primary" uk-tooltip="Salin Ayat"><span uk-icon="icon: copy; ratio: 0.8" ></span>Copy</a></li>
+    <li><a class="uk-text-primary" uk-tooltip="Salin Url"><span uk-icon="icon: link; ratio: 0.9" ></span>Copy Url</a></li>
+   </ul>
   </div>
  </div>
  {% endfor %}
