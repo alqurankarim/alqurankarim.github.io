@@ -1,6 +1,6 @@
 alfatihah:
-  - id: 1
-    name: The Opening
+  - name: The Opening
+    surah_ID: 1
     latin_name: Al-Fatihah
     arabic_name: الفاتحة
     type: Makkiyah
