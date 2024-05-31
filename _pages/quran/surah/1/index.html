@@ -46,6 +46,7 @@ permalink: /1
 {% endfor %}
  </div>
 
+{% for item in site.data.quran.surah_1 %}
 {% for item in item.ayah %}
  <div id="{{ item.ayah_number }}" class="uk-card uk-card-default uk-card-hover uk-margin dynamic-content">
   <div class="uk-card-body">
