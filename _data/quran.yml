@@ -4,10 +4,10 @@ surah_1:
     latin_name: Al-Fatihah
     arabic_name: الفاتحة
     type: Makkiyah
-    ayah: 7
+    ayah_count: 7
     audio_surah: https://server8.mp3quran.net/afs/001.mp3
     translated: Muhsin Khan
-    arabic:
+    ayah:
       - ar: بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
         en: In the Name of Allah, the Most Gracious, the Most Merciful.
         ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001001.mp3
@@ -27,6 +27,6 @@ surah_1:
         en: Guide us to the Straight Way.
         ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001006.mp3
       - ar: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ     
-        ref: The Way of those on whom You have bestowed Your Grace , not (the way) of those who earned Your Anger (i.e. those who knew the Truth, but did not follow it) nor of those who went astray (i.e. those who did not follow the Truth out of ignorance and error).
+        en: The Way of those on whom You have bestowed Your Grace , not (the way) of those who earned Your Anger (i.e. those who knew the Truth, but did not follow it) nor of those who went astray (i.e. those who did not follow the Truth out of ignorance and error).
         ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001007.mp3
     
