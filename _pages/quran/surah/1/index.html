@@ -5,14 +5,6 @@ permalink: /1
 ---
 <div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
 
-{% if quran.data.1 %}
- <p>{{ latin_name }} ({{ name }})</p>
- {% for item in item.ayah %}
-  <li>{{ item.ar }}</li>
- {% endfor %}
-{% endif %}
-
- 
  <div id="default-content" class="dynamic-content">
  {% for item in site.data.quran.1 %}
  <h3>{{ item.latin_name }} ({{ item.name }})</h3>
