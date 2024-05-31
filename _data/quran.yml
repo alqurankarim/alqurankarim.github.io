@@ -1,0 +1,34 @@
+surah:
+
+  - id: 1
+    name: The Opening
+    latin_name: Al-Fatihah
+    arabic_name: الفاتحة
+    type: Makkiyah
+    ayah: 7
+    audio: https://server8.mp3quran.net/afs/001.mp3
+    translation: Muhsin Khan
+    text:
+      - 1: بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
+        audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001001.mp3
+      - 2: اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ
+        audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001002.mp3
+      - 3: الرَّحْمٰنِ الرَّحِيْمِۙ
+        audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001003.mp3
+      - 4: مٰلِكِ يَوْمِ الدِّيْنِۗ
+        audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001004.mp3
+      - 5: اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ
+        audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001005.mp3
+      - 6: اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ
+        audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001006.mp3
+      - 7: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+        audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001007.mp3
+    en: 
+      - 1: In the Name of Allah, the Most Gracious, the Most Merciful.
+      - 2: All the praises and thanks be to Allah, the Lord of the Alamin (mankind, jinn and all that exists).
+      - 3: The Most Gracious, the Most Merciful.
+      - 4: The Only Owner (and the Only Ruling Judge) of the Day of Recompense (i.e. the Day of Resurrection)
+      - 5: You (Alone) we worship, and You (Alone) we ask for help (for each and everything).
+      - 6: Guide us to the Straight Way.
+      - 7: The Way of those on whom You have bestowed Your Grace , not (the way) of those who earned Your Anger (i.e. those who knew the Truth, but did not follow it) nor of those who went astray (i.e. those who did not follow the Truth out of ignorance and error).
+
