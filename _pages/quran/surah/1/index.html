@@ -4,17 +4,13 @@ title: Al-Fatihah
 permalink: /1
 ---
 <div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
-{% for surah in site.data.quran.alfatihah %}
+{% for surah in site.data.quran.1 %}
  <h3>{{ surah.latin_name }} ({{ surah.name }})</h3>
  <div class="mediPlayer"><audio class="listen" preload="none" data-size="18" src="{{ surah.audio_surah }}"></audio></div>
  <hr/>
- {% for ayat in item.arabic %}
+ {% for ayat in item.text %}
   <div class="uk-card uk-card-default uk-card-body uk-card-hover uk-margin">
-   <h3 class="uk-card-title ar">{{ ayat }}</h3>   
-   {% else %}
-   {% for item in item.translation %}
-    <p>{{ item.text }}</p>
-   {% endfor %}
+   <h3 class="uk-card-title ar">{{ ayat.ref }}</h3>
   </div>
  {% endfor %}
 {% endfor %}
