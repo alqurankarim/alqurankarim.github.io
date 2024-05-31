@@ -8,27 +8,25 @@ surah_1:
     audio_surah: https://server8.mp3quran.net/afs/001.mp3
     translated: Muhsin Khan
     arabic:
-      - ref: بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
-      - ref: اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ
-      - ref: الرَّحْمٰنِ الرَّحِيْمِۙ      
-      - ref: مٰلِكِ يَوْمِ الدِّيْنِۗ        
-      - ref: اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ        
-      - ref: اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ        
-      - ref: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ     
-    translation:
-      - ref: In the Name of Allah, the Most Gracious, the Most Merciful.
-      - ref: All the praises and thanks be to Allah, the Lord of the Alamin (mankind, jinn and all that exists).
-      - ref: The Most Gracious, the Most Merciful.
-      - ref: The Only Owner (and the Only Ruling Judge) of the Day of Recompense (i.e. the Day of Resurrection)
-      - ref: You (Alone) we worship, and You (Alone) we ask for help (for each and everything).
-      - ref: Guide us to the Straight Way.
-      - ref: The Way of those on whom You have bestowed Your Grace , not (the way) of those who earned Your Anger (i.e. those who knew the Truth, but did not follow it) nor of those who went astray (i.e. those who did not follow the Truth out of ignorance and error).
-    audio_ayah: 
-      - ref: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001001.mp3
-      - ref: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001002.mp3
-      - ref: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001003.mp3
-      - ref: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001004.mp3
-      - ref: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001005.mp3
-      - ref: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001006.mp3
-      - ref: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001007.mp3
-
+      - ar: بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
+        en: In the Name of Allah, the Most Gracious, the Most Merciful.
+        ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001001.mp3
+      - ar: اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ
+        en: All the praises and thanks be to Allah, the Lord of the Alamin (mankind, jinn and all that exists).
+        ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001002.mp3
+      - ar: الرَّحْمٰنِ الرَّحِيْمِۙ      
+        en: The Most Gracious, the Most Merciful.
+        ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001003.mp3
+      - ar: مٰلِكِ يَوْمِ الدِّيْنِۗ      
+        en: The Only Owner (and the Only Ruling Judge) of the Day of Recompense (i.e. the Day of Resurrection)
+        ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001004.mp3
+      - ar: اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ     
+        en: You (Alone) we worship, and You (Alone) we ask for help (for each and everything).
+        ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001005.mp3
+      - ar: اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ     
+        en: Guide us to the Straight Way.
+        ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001006.mp3
+      - ar: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ     
+        ref: The Way of those on whom You have bestowed Your Grace , not (the way) of those who earned Your Anger (i.e. those who knew the Truth, but did not follow it) nor of those who went astray (i.e. those who did not follow the Truth out of ignorance and error).
+        ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001007.mp3
+    
