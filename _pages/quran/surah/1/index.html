@@ -13,10 +13,11 @@ permalink: /1
  <div class="uk-card uk-card-default uk-card-hover uk-margin">
  {% for item in item.arabic %}
   <div class="uk-card-body">
-   <h3 class="uk-card-title ar" dir="rtl">{{ item.ref }}</h3>
-   {% for item in item.translation %}
-     <p>{{ item.ref }}</p>
-   {% endfor %}
+   <h3 class="uk-card-title ar" dir="rtl">{{ item.ar }}</h3>
+     <p>{{ item.en }}</p>
+ <div class="mediPlayer">
+  <audio class="listen" preload="none" data-size="18" src="{{ item.ayah_audio }}"></audio>
+ </div>   
   </div>
  {% endfor %}
  </div>
