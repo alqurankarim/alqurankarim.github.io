@@ -4,16 +4,17 @@ title: Al-Fatihah
 permalink: /1
 ---
 <div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
-{% assign quran = site.data.quran[page.quran] %}
-{% if quran.info %} 
- <h3>{{ quran.latin_name }} ({{ quram.name }})</h3>
- <div class="mediPlayer"><audio class="listen" preload="none" data-size="18" src="{{ audio }}"></audio></div>
+{% for item in site.data.quran.1 %}
+ <h3>{{ item.latin_name }} ({{ item.name }})</h3>
+ <div class="mediPlayer"><audio class="listen" preload="none" data-size="18" src="{{ item.audio_surah }}"></audio></div>
  <hr/>
-{% endif %}
- {% for text in quran.ar %}  
- {% assign text = site.data.ar[ar.text] %}
+ {% for item in item.ar %}
+  {% for text in item.en %}
   <div class="uk-card uk-card-default uk-card-body uk-card-hover uk-margin">
-  <h3 class="uk-card-title ar">{{ text }}</h3>
+   <h3 class="uk-card-title ar">{{ item.text }}</h3>
+   <p>{{ text.text }}</p>
   </div>
+  {% endfor %}
  {% endfor %}
+{% endfor %}
 </div>
