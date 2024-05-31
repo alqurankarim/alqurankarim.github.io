@@ -46,8 +46,7 @@
         ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001007.mp3
         
 
-
-surah_1:
+surahs:
   - name: The Opening
     surah_number: 1
     latin_name: Al-Fatihah
@@ -56,7 +55,7 @@ surah_1:
     ayah_count: 7
     audio_surah: https://server8.mp3quran.net/afs/001.mp3
     translated: Muhsin Khan
-    ayah:
+    ayahs:
       - ayah_number: 1
         ar: بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
         transliteration: Bismillāhir-raḥmānir-raḥīm
@@ -92,4 +91,18 @@ surah_1:
         transliteration: 
         en: The Way of those on whom You have bestowed Your Grace , not (the way) of those who earned Your Anger (i.e. those who knew the Truth, but did not follow it) nor of those who went astray (i.e. those who did not follow the Truth out of ignorance and error).
         ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001007.mp3
-    
+  - name: The Cow
+    surah_number: 2
+    latin_name: Al-Baqarah
+    arabic_name: البقرة
+    type: Madaniyah
+    ayah_count: 286
+    audio_surah: https://server8.mp3quran.net/afs/002.mp3
+    translated: Muhsin Khan
+    ayahs:
+      - ayah_number: 1
+        ar: "الۤمّۤ ۚ" 
+        transliteration: Alif Lām Mīm.
+        en: Alif Lām Mīm.
+        ayah_audio: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/002001.mp3
+
