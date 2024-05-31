@@ -5,6 +5,16 @@ permalink: /1
 ---
 <div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
 
+{% assign quran = site.data.quran[page.quran] %}
+{% if quran.data %}
+{% assign data = quran.data %}
+  <p>{{ quran.latin_name }} ({{ quran.name }})</p>
+ {% for item in quran.data.ayahs %}
+  <p>{{ item.ar}}</p>
+ {% endfor %}
+{% endif %}
+
+ 
  <div id="default-content" class="dynamic-content">
  {% for item in site.data.quran.surah_1 %}
  <h3>{{ item.latin_name }} ({{ item.name }})</h3>
