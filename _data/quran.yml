@@ -1,3 +1,22 @@
+1:
+  - name: The Opening
+    number_of_surah: 1
+    latin_name: Al-Fatihah
+    arabic_name: الفاتحة
+    type: Makkiyah
+    ayah_count: 7
+    audio_surah: https://server8.mp3quran.net/afs/001.mp3
+    translated_by: Muhsin Khan
+    text:
+      - ref: بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
+      - ref: اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ
+      - ref: الرَّحْمٰنِ الرَّحِيْمِۙ      
+      - ref: مٰلِكِ يَوْمِ الدِّيْنِۗ        
+      - ref: اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ        
+      - ref: اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ        
+      - ref: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ    
+
+
 alfatihah:
   - name: The Opening
     surah_ID: 1
