@@ -11,7 +11,7 @@ permalink: /1
  {% for ayat in item.text %}  
   <div class="uk-card uk-card-default uk-card-body uk-card-hover uk-margin">
   <h3 class="uk-card-title ar">{{ ayat }}</h3>
-  {% for translation in item.surah.text.en %}
+  {% for translation in site.data.quran.surah.en %}
    <p>{{ translation }}</p>
   {% endfor %}
   </div>
