@@ -10,8 +10,8 @@ permalink: /1
   <audio class="listen" preload="none" data-size="18" src="{{ item.audio_surah }}"></audio>
  </div>
  <hr/>
+  {% for item in item.ayah %}
  <div class="uk-card uk-card-default uk-card-hover uk-margin">
- {% for item in item.arabic %}
   <div class="uk-card-body">
    <h3 class="uk-card-title ar" dir="rtl">{{ item.ar }}</h3>
      <p>{{ item.en }}</p>
@@ -19,7 +19,7 @@ permalink: /1
   <audio class="listen" preload="none" data-size="18" src="{{ item.ayah_audio }}"></audio>
  </div>   
   </div>
- {% endfor %}
  </div>
+ {% endfor %}
 {% endfor %}
 </div>
