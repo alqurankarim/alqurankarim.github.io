@@ -7,7 +7,7 @@ alfatihah:
     ayah: 7
     audio_surah: https://server8.mp3quran.net/afs/001.mp3
     translated: Muhsin Khan
-    text:
+    arabic:
       - بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
       - اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ
       - الرَّحْمٰنِ الرَّحِيْمِۙ      
@@ -24,11 +24,11 @@ alfatihah:
       - text: Guide us to the Straight Way.
       - text: The Way of those on whom You have bestowed Your Grace , not (the way) of those who earned Your Anger (i.e. those who knew the Truth, but did not follow it) nor of those who went astray (i.e. those who did not follow the Truth out of ignorance and error).
     audio_ayah: 
-      - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001001.mp3
-      - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001002.mp3
-      - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001003.mp3
-      - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001004.mp3
-      - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001005.mp3
-      - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001006.mp3
-      - text: https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001007.mp3
+      - https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001001.mp3
+      - https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001002.mp3
+      - https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001003.mp3
+      - https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001004.mp3
+      - https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001005.mp3
+      - https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001006.mp3
+      - https://www.searchtruth.org/recitation/Abdullah-Basfar-32kbps/verse/001007.mp3
 
