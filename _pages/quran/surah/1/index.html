@@ -6,7 +6,7 @@ permalink: /1
 <div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
 
  <div id="default-content" class="dynamic-content">
- {% for item in site.data.quran.1 %}
+ {% for item in site.data.quran.surah1 %}
  <h3>{{ item.latin_name }} ({{ item.name }})</h3>
  <div class="mediPlayer">
   <audio class="listen" preload="none" data-size="18" src="{{ item.audio_surah }}"></audio>
@@ -46,7 +46,7 @@ permalink: /1
 {% endfor %}
  </div>
 
-{% for item in site.data.quran.1 %}
+{% for item in site.data.quran.surah1 %}
 {% for item in item.ayahs %}
  <div id="{{ item.ayah_number }}" class="uk-card uk-card-default uk-card-hover uk-margin dynamic-content">
   <div class="uk-card-body">
