@@ -1,0 +1,80 @@
+---
+layout: default
+title: Al-Baqarah
+permalink: /2
+---
+<div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
+
+ <div id="default-content" class="dynamic-content">
+ {% for item in site.data.quran.surahs[1] %}
+ <h3>{{ item.latin_name }} ({{ item.name }})</h3>
+ <div class="mediPlayer">
+  <audio class="listen" preload="none" data-size="18" src="{{ item.audio_surah }}"></audio>
+ </div>
+ <hr/>
+  {% for item in item.ayahs %}
+ <div class="uk-card uk-card-default uk-card-hover uk-margin">
+  <div class="uk-card-body">
+ <div class="uk-clearfix">
+    <div class="uk-float-left">
+        <div>
+         <p class="uk-label uk-text-bold">{{ item.ayah_number }}</p>
+        </div>
+    </div>
+    <div class="uk-float-right">
+        <div dir="rtl">
+         <h3 class="uk-card-title uk-text-bold">
+          {{ item.ar }}
+         </h3>  
+        </div>
+    </div>
+ </div>   
+ <p>{{ item.en }}</p>
+  </div>
+  <div class="uk-card-footer">
+   <ul class="uk-iconnav">
+    <li><div class="mediPlayer"><audio class="listen" preload="none" data-size="18" src="{{ item.ayah_audio }}"></audio></div></li>
+    <li>
+     <a href="/1?ayat={{ item.ayah_number }}" class="uk-text-primary" uk-tooltip="Baca Tafsir"><span uk-icon="icon: commenting; ratio: 0.9" ></span>Tafsir</a>
+    </li>
+    <li><a class="uk-text-primary" uk-tooltip="Salin Ayat"><span uk-icon="icon: copy; ratio: 0.8" ></span>Copy</a></li>
+    <li><a class="uk-text-primary" uk-tooltip="Salin Url"><span uk-icon="icon: link; ratio: 0.9" ></span>Copy Url</a></li>
+   </ul>
+  </div>
+ </div>
+ {% endfor %}
+{% endfor %}
+ </div>
+
+{% for item in site.data.quran.surahs[1] %}
+{% for item in item.ayahs %}
+ <div id="{{ item.ayah_number }}" class="uk-card uk-card-default uk-card-hover uk-margin dynamic-content">
+  <div class="uk-card-body">
+ <div class="uk-clearfix">
+    <div class="uk-float-left">
+        <div>
+         <p class="uk-label uk-text-bold">{{ item.ayah_number }}</p>
+        </div>
+    </div>
+    <div class="uk-float-right">
+        <div dir="rtl">
+         <h3 class="uk-card-title uk-text-bold">
+          {{ item.ar }}
+         </h3>  
+        </div>
+    </div>
+ </div>   
+ <p>{{ item.en }}</p>
+  </div>
+  <div class="uk-card-footer">
+   <ul class="uk-iconnav">
+    <li><div class="mediPlayer"><audio class="listen" preload="none" data-size="18" src="{{ item.ayah_audio }}"></audio></div></li>
+    <li><a class="uk-text-primary" uk-tooltip="Salin Ayat"><span uk-icon="icon: copy; ratio: 0.8" ></span>Copy</a></li>
+    <li><a class="uk-text-primary" uk-tooltip="Salin Url"><span uk-icon="icon: link; ratio: 0.9" ></span>Copy Url</a></li>
+   </ul>
+  </div>
+ </div>
+ {% endfor %}
+{% endfor %}
+ 
+</div>
