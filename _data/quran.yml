@@ -1,8 +1,8 @@
-1:
+alfatihah:
   - id: 1
     name: The Opening
     latin_name: Al-Fatihah
-    arabic_name: "الفاتحة"
+    arabic_name: الفاتحة
     type: Makkiyah
     ayah: 7
     audio_surah: https://server8.mp3quran.net/afs/001.mp3
