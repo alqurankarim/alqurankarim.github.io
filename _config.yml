@@ -1,0 +1,12 @@
+title:          Al-Qur'an Al-Karim
+description:    ""
+baseurl:        "/"
+url:            "https://alqurankarim.github.io"
+markdown: kramdown
+future: true
+encoding: UTF-8
+error:
+    text: ""
+include:
+  - _pages
+
