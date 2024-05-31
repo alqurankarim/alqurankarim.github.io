@@ -8,9 +8,12 @@ permalink: /1
  <h3>{{ item.latin_name }} ({{ item.name }})</h3>
  <div class="mediPlayer"><audio class="listen" preload="none" data-size="18" src="{{ item.audio_surah }}"></audio></div>
  <hr/>
- {% for item in item.text %}
+ {% for item in item.arabic %}
   <div class="uk-card uk-card-default uk-card-body uk-card-hover uk-margin">
-   <h3 class="uk-card-title ar">{{ item.ref }}</h3>
+   <h3 class="uk-card-title ar" dir="rtl">{{ item.ref }}</h3>  
+ {% for item in item.translation %}
+   <p>{{ item.ref }}</p>
+ {% endfor %}
   </div>
  {% endfor %}
 {% endfor %}
