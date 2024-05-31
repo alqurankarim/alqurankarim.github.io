@@ -11,6 +11,7 @@ permalink: /1
  {% for item in item.arabic %}
   <div class="uk-card uk-card-default uk-card-body uk-card-hover uk-margin">
    <h3 class="uk-card-title ar" dir="rtl">{{ item.ref }}</h3>  
+ {% else %}
  {% for item in item.translation %}
    <p>{{ item.ref }}</p>
  {% endfor %}
