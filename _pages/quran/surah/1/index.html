@@ -1,0 +1,15 @@
+---
+layout: default
+title: Al-Fatihah
+permalink: /1.html
+---
+<div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
+{% for item in site.data.quran %}
+ <div class="uk-card uk-card-default uk-card-body uk-width-1-2@m">
+ <h3>{{ item.latin_name }}</h3>
+ {% for ayat in item.text %}
+  <h3 class="uk-card-title ar">{{ ayat }}</h3>
+ {% endfor %}
+ </div>
+{% endfor %}
+</div>
