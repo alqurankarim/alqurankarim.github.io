@@ -480,7 +480,210 @@ quranic_chapters:
     ayah_count: 42
     surah_number: 80
     type: Makkiyah
-
+  - name: The Overthrowing
+    latin_name: At-Takwir
+    arabic_name: "التّكوير"
+    ayah_count: 29
+    surah_number: 81
+    type: Makkiyah
+  - name: The Cleaving
+    latin_name: Al-Infitar
+    arabic_name: "الانفطار"
+    ayah_count: 19
+    surah_number: 82
+    type: Makkiyah
+  - name: Those Who Deal In Fraud
+    latin_name: Al-Mutaffifin
+    arabic_name: "المطفّفين"
+    ayah_count: 36
+    surah_number: 83
+    type: Makkiyah
+  - name: The Splitting Asunder
+    latin_name: Al-Inshiqaq
+    arabic_name: "الانشقاق"
+    ayah_count: 25
+    surah_number: 84
+    type: Makkiyah
+  - name: The Big Stars
+    latin_name: Al-Buruj
+    arabic_name: "البروج"
+    ayah_count: 22
+    surah_number: 85
+    type: Makkiyah
+  - name: The Night-Comer
+    latin_name: At-Tariq
+    arabic_name: "الطّارق"
+    ayah_count: 17
+    surah_number: 86
+    type: Makkiyah
+  - name: The Most High
+    latin_name: Al-A'la
+    arabic_name: "الاعلى"
+    ayah_count: 19
+    surah_number: 87
+    type: Makkiyah
+  - name: The Overwhelming
+    latin_name: Al-Ghashiyah
+    arabic_name: "الغاشية"
+    ayah_count: 26
+    surah_number: 88
+    type: Makkiyah
+  - name: The Dawn
+    latin_name: Al-Fajr
+    arabic_name: "الفجر"
+    ayah_count: 30
+    surah_number: 89
+    type: Makkiyah
+  - name: The City
+    latin_name: Al-Balad
+    arabic_name: "البلد"
+    ayah_count: 20
+    surah_number: 90
+    type: Makkiyah
+  - name: The Sun
+    latin_name: Ash-Shams
+    arabic_name: "الشّمس"
+    ayah_count: 15
+    surah_number: 91
+    type: Makkiyah
+  - name: The Night
+    latin_name: Al-Layl
+    arabic_name: "الّيل"
+    ayah_count: 21
+    surah_number: 92
+    type: Makkiyah
+  - name: The Forenoon
+    latin_name: Adh-Dhuha
+    arabic_name: "الضّحى"
+    ayah_count: 11
+    surah_number: 93
+    type: Makkiyah
+  - name: The Opening Forth
+    latin_name: Ash-Sharh
+    arabic_name: "الشّرح"
+    ayah_count: 8
+    surah_number: 94
+    type: Makkiyah
+  - name: The Fig
+    latin_name: At-Tin
+    arabic_name: "التّين"
+    ayah_count: 8
+    surah_number: 95
+    type: Makkiyah
+  - name: The Clot
+    latin_name: Al-'Alaq
+    arabic_name: "العلق"
+    ayah_count: 19
+    surah_number: 96
+    type: Makkiyah
+  - name: The Night of Decree
+    latin_name: Al-Qadr
+    arabic_name: "القدر"
+    ayah_count: 5
+    surah_number: 97
+    type: Makkiyah
+  - name: The Clear Evidence
+    latin_name: Al-Bayyinah
+    arabic_name: "البيّنة"
+    ayah_count: 8
+    surah_number: 98
+    type: Madaniyah
+  - name: The Earthquake
+    latin_name: Al-Zalzalah
+    arabic_name: "الزّلزلة"
+    ayah_count: 8
+    surah_number: 99
+    type: Madaniyah
+  - name: Those That Run
+    latin_name: Al-'Adiyat
+    arabic_name: "العٰديٰت"
+    ayah_count: 11
+    surah_number: 100
+    type: Makkiyah
+  - name: The Calamity
+    latin_name: Al-Qari'ah
+    arabic_name: "القارعة"
+    ayah_count: 11
+    surah_number: 101
+    type: Makkiyah
+  - name: The piling Up
+    latin_name: At-Takathur
+    arabic_name: "التّكاثر"
+    ayah_count: 8
+    surah_number: 102
+    type: Makkiyah
+  - name: The Time
+    latin_name: Al-'Asr
+    arabic_name: "العصر"
+    ayah_count: 3
+    surah_number: 103
+    type: Makkiyah
+  - name: The Slanderer
+    latin_name: Al-Humazah
+    arabic_name: "الهمزة"
+    ayah_count: 9
+    surah_number: 104
+    type: Makkiyah
+  - name: The Elephant
+    latin_name: Al-Fil
+    arabic_name: "الفيل"
+    ayah_count: 5
+    surah_number: 105
+    type: Makkiyah
+  - name: Quraish
+    latin_name: Quraish
+    arabic_name: "قريش"
+    ayah_count: 4
+    surah_number: 106
+    type: Makkiyah
+  - name: Small Kindnesses
+    latin_name: Al-Ma'un
+    arabic_name: "الماعون"
+    ayah_count: 7
+    surah_number: 107
+    type: Makkiyah
+  - name: A River in Paradise
+    latin_name: Al-Kawthar
+    arabic_name: "الكوثر"
+    ayah_count: 3
+    surah_number: 108
+    type: Makkiyah
+  - name: The Disbelievers
+    latin_name: Al-Kafirun
+    arabic_name: "الكٰفرون"
+    ayah_count: 6
+    surah_number: 109
+    type: Makkiyah
+  - name: The Help
+    latin_name: An-Nasr
+    arabic_name: "النّصر"
+    ayah_count: 3
+    surah_number: 110
+    type: Madaniyah
+  - name: The Palm Fibre
+    latin_name: Al-Masad
+    arabic_name: ""
+    ayah_count: 5
+    surah_number: 111
+    type: Makkiyah
+  - name: Sincerity
+    latin_name: Al-Ikhlas
+    arabic_name: "الاخلاص"
+    ayah_count: 4
+    surah_number: 112
+    type: Makkiyah
+  - name: The Daybreak
+    latin_name: Al-Falaq
+    arabic_name: "الفلق"
+    ayah_count: 5
+    surah_number: 113
+    type: Makkiyah
+  - name: Mankind
+    latin_name: An-Nas
+    arabic_name: "النّاس"
+    ayah_count: 6
+    surah_number: 114
+    type: Makkiyah
 
 #Quranic Juz/Para
 quranic_juz:
