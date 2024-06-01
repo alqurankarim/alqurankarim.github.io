@@ -16,15 +16,13 @@ html{
     --color-text: #d9d9d9;
     --bg-navbar: #37474f;
     --bg-card: #263238;
-    --section: #546d78;
 }
 html[data-theme='dark'] {
     --bg: #000100;
     --color-heading: #0077ff; 
-    --color-text: #ffffffd;
+    --color-text: #ffffff;
     --bg-navbar: #000100;
-    --bg-card: #141414;
-    --section: #424242;
+    --bg-card: #000100;
 }
 .mediPlayer .control {
     opacity        : 0; /* transition: opacity .2s linear; */
@@ -198,6 +196,9 @@ html, body {
 }
 .uk-card, .uk-card-default, .uk-card-body {
     background-color: var(--bg-card) !important;
+    color: var(--color-text) !important;
+}
+p, h3, .uk-card-title {
     color: var(--color-text) !important;
 }
 .dynamic-content { display:none; }    
