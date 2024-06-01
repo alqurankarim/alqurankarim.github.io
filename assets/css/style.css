@@ -50,3 +50,7 @@
   font-weight: 500;
   font-style: normal;
 }
+.uk-fixed-navigation, .uk-navbar{
+ padding: 0 10px !important;
+ z-index: 999 !important;
+}
