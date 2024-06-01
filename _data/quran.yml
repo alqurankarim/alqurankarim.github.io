@@ -38,8 +38,8 @@ chapters:
 
 
 types:
-  - title: Makkiyah
-    en_title: Meccan
+  - title: Makkiyah Chapters
+    en_title: Meccan Chapters
     chapters:
       - name: Al-Fatihah (The Opening)
       - name: Al-An'am (The Cattle)
@@ -127,8 +127,8 @@ types:
       - name: Al-Ikhlas (Sincerity)
       - name: Al-Falaq (The Daybreak)
       - name: An-Nas (Mankind)      
-  - title: Madaniyah
-    en_title: Medinan
+  - title: Madaniyah Chapters
+    en_title: Medinan Chapters
     chapters:
       - name: Al-Baqarah (The Cow)
       - name: Al-Imran (The Family of Imran)
