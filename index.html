@@ -2,4 +2,22 @@
 layout: default
 title: Al-Qur'an Al-Karim
 ---
-<h1>Al-Qur'an Al-Karim</h1>
+
+<div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
+<div class="uk-overflow-auto">
+<table class="uk-table">
+    <tbody>
+     {% for item in site.data.quran.quranic_chapters %}
+        <tr>
+            <td class="uk-text-center">{{ item.surah_number}}</td>
+            <td>{{ item.arabic_name }}</td>
+            <td>
+              {{ item.latin_name }} <br/>
+              {{ item.name }} | {{ item.type }} | {{ item.ayah_count }} Ayahs
+            </td>
+        </tr>
+     {% endfor %}
+    </tbody>
+</table>
+</div>
+</div>
