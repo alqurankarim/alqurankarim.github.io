@@ -8,7 +8,7 @@ title: Al-Qur'an Al-Karim
 <table class="uk-table">
     <tbody>
      {% for item in site.data.quran.quranic_chapters %}
-        <tr>
+        <tr class="uk-card uk-card-default uk-card-small uk-card-body">
             <td class="uk-text-center">{{ item.surah_number}}</td>            
             <td>
               {{ item.latin_name }} ({{ item.ayah_count }} Ayahs) <br/>
