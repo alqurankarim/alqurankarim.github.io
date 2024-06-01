@@ -11,10 +11,10 @@
     text-rendering         : optimizeLegibility;
 }    
 html{
-    --bg: #37474f;
-    --color-heading: rgb(27, 168, 14); 
-    --color-text: #d9d9d9;
-    --bg-navbar: #37474f;
+    --bg: #fafafa;
+    --color-heading: #000100; 
+    --color-text: #000100;
+    --bg-navbar: #fafafa;
     --bg-card: #263238;
 }
 html[data-theme='dark'] {
