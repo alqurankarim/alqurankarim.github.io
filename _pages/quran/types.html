@@ -3,8 +3,38 @@ layout: default
 title: Qur'anic Juz, Meccan & Medinan Chapters
 permalink: /types
 ---
+
 <div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
+<h3>Qur'anic Chapters</h3>
+<div class="uk-overflow-auto">
+<table class="uk-table uk-table-striped">
+    <thead>
+        <tr>
+            <th>Surah Number</th>
+            <th>Arabic Namr</th>
+            <th>Latin Name</th>
+            <th>English Name</th>
+            <th>Total Ayah</th>
+            <th>Type</th>
+        </tr>
+    </thead> 
+    <tbody>
+     {% for item in site.data.quran.quranic_chapters %}
+        <tr>
+            <td class="uk-text-center">{{ item.surah_number}}</td>
+            <td>{{ item.arabic_name }}</td>
+            <td>{{ item.latin_name }}</td>
+            <td>{{ item.name }}</td>
+            <td class="uk-text-center">{{ item.ayah_count }}</td>
+            <td>{{ item.type }}</td>
+        </tr>
+     {% endfor %}
+    </tbody>
+</table>
+</div>
+
 <h3>Qur'anic Juz</h3>
+<div class="uk-overflow-auto">
 <table class="uk-table uk-table-striped">
     <thead>
         <tr>
@@ -21,6 +51,8 @@ permalink: /types
      {% endfor %}
     </tbody>
 </table>
+</div>
+
 {% for item in site.data.quran.type %}
  <h3>{{ item.title }}</h3>
  <ul class="uk-list uk-list-decimal">
