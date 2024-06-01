@@ -20,6 +20,12 @@ quranic_juz:
     surahs: Al-A'raf (88-206), Al-Anfal (1-40)
   - juz: 10
     surahs: Al-Anfal (41-75), At-Taubah (1-92)
+  - juz: 11
+    surahs: At-Taubah (93-129), Yunus (1-109), Hud (1-5)
+  - juz: 12
+    surahs: Hud (6-123), Yusuf (1-52)
+  - juz: 13
+    surahs: Yusuf (53-111), Ar-Ra'd (1-43), Ibrahim (1-52)
 
 
 #Quranic Chapters
