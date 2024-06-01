@@ -21,9 +21,9 @@ html{
 html[data-theme='dark'] {
     --bg: #000100;
     --color-heading: #0077ff; 
-    --color-text: #d9d9d9;
-    --bg-navbar: #111;
-    --bg-card: #222;
+    --color-text: #ffffffd;
+    --bg-navbar: #000100;
+    --bg-card: #141414;
     --section: #424242;
 }
 .mediPlayer .control {
@@ -205,6 +205,7 @@ html, body {
   font-family: "IBM Plex Sans Arabic", sans-serif;
   font-weight: 500;
   font-style: normal;
+  color: var(--color-text) !important;
 }
 .uk-fixed-navigation {
     position: fixed;
@@ -212,6 +213,8 @@ html, body {
     left: 0;
     top: 0;
     z-index: 1030;
+    background-color: var(--bg) !important;
+    color: var(--color-text) !important;
 }
 .uk-fixed-navigation, .uk-navbar{
  padding: 0 10px !important;
