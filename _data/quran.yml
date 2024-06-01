@@ -180,6 +180,49 @@ quranic_chapters:
     ayah_count: 60
     surah_number: 30
     type: Makkiyah
+  - name: Luqman
+    latin_name: Luqman
+    arabic_name: "لقمٰن"
+    ayah_count: 34
+    surah_number: 31
+    type: Makkiyah
+  - name: The Prostration
+    latin_name: As-Sajdah
+    arabic_name: "السّجدة"
+    ayah_count: 30
+    surah_number: 32
+    type: Makkiyah
+  - name: The Combined Forces
+    latin_name: Al-Ahzab
+    arabic_name: "الاحزاب"
+    ayah_count: 73
+    surah_number: 33
+    type: Madaniyah
+  - name: Sheba
+    latin_name: Saba'
+    arabic_name: "سبأ"
+    ayah_count: 54
+    surah_number: 34
+    type: Makkiyah
+  - name: The Orignator
+    latin_name: Fatir
+    arabic_name: "فاطر"
+    ayah_count: 45
+    surah_number: 35
+    type: Makkiyah
+  - name: Ya Sin
+    latin_name: Ya Sin
+    arabic_name: "يٰسۤ"
+    ayah_count: 83
+    surah_number: 36
+    type: Makkiyah
+  - name: Ya Sin
+    latin_name: Ya Sin
+    arabic_name: "الصّٰۤفّٰت"
+    ayah_count: 182
+    surah_number: 37
+    type: Makkiyah
+
 
 
 #Quranic Juz/Para
