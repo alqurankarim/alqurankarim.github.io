@@ -300,6 +300,66 @@ quranic_chapters:
     ayah_count: 45
     surah_number: 50
     type: Makkiyah
+  - name: The Wind that Scatter
+    latin_name: Adh-Dhariyat
+    arabic_name: "الذّٰريٰت"
+    ayah_count: 60
+    surah_number: 51
+    type: Makkiyah
+  - name: The Mount
+    latin_name: At-Tur
+    arabic_name: "الطّور"
+    ayah_count: 49
+    surah_number: 52
+    type: Makkiyah
+  - name: The Star
+    latin_name: An-Najm
+    arabic_name: "النّجم"
+    ayah_count: 62
+    surah_number: 53
+    type: Makkiyah
+  - name: The Moon
+    latin_name: Al-Qamar
+    arabic_name: "القمر"
+    ayah_count: 55
+    surah_number: 54
+    type: Makkiyah
+  - name: The Most Graciouse
+    latin_name: Ar-Rahman
+    arabic_name: "الرّحمٰن"
+    ayah_count: 78
+    surah_number: 55
+    type: 
+  - name: The Inevitable
+    latin_name: Al-Waqi'ah
+    arabic_name: "الواقعة"
+    ayah_count: 96
+    surah_number: 56
+    type: Makkiyah
+  - name: The Iron
+    latin_name: Al-Hadid
+    arabic_name: "الحديد"
+    ayah_count: 29
+    surah_number: 57
+    type: Madaniyah
+  - name: She That Disputeth
+    latin_name: Al-Mujadilah
+    arabic_name: "المجادلة"
+    ayah_count: 22
+    surah_number: 58
+    type: Madaniyah
+  - name: The Gathering
+    latin_name: Al-Hashr
+    arabic_name: "الحشر"
+    ayah_count: 24
+    surah_number: 59
+    type: Madaniyah
+  - name: The Woman to be examined
+    latin_name: Al-Mumtahanah
+    arabic_name: "الممتحنة"
+    ayah_count: 13
+    surah_number: 60
+    type: Madaniyah
 
 
 #Quranic Juz/Para
