@@ -146,7 +146,7 @@ types:
       - name: At-Tur (The Mount)
       - name: An-Najm (The Star)
       - name: Al-Qamar (The Moon)
-      - name: Al-Waqi'ah
+      - name: Al-Waqi'ah (The Inevitable)
       - name: Al-Mulk (Dominion)
       - name: Al-Qalam (The Pen)
       - name: Al-Haaqqah (The Inevitable)
@@ -159,7 +159,7 @@ types:
       - name: Al-Mursalat (Those sent forth)
       - name: An-Naba' (The Great News)
       - name: An-Nazi'at (Those who Pull Out)
-      - name: Abasa (He frowned)
+      - name: Abasa (He Frowned)
       - name: At-Takwir (The Overthrowing)
       - name: Al-Infitar (The Cleaving)
       - name: Al-Mutaffifin (Those Who Deal in Fraud)
@@ -178,7 +178,7 @@ types:
       - name: Al-'alaq (The Clot)
       - name: Al-Qadr (The Night of Decree)
       - name: Al-'adiyat (Those That Run)
-      - name: Al-Qari'ah
+      - name: Al-Qari'ah (The Calamity)
       - name: At-Takathur (The piling Up)
       - name: Al-Asr (The Time)
       - name: Al-Humazah (The Slanderer)
