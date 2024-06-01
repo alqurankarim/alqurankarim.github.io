@@ -662,7 +662,7 @@ quranic_chapters:
     type: Madaniyah
   - name: The Palm Fibre
     latin_name: Al-Masad
-    arabic_name: ""
+    arabic_name: "المسد"
     ayah_count: 5
     surah_number: 111
     type: Makkiyah
