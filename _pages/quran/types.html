@@ -6,10 +6,10 @@ permalink: /types
 <div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
 {% for item in site.data.quran.types %}
  <h3>{{ item.title }}</h3>
- <ul>
- {% for item in item.subfolderitems %}
+ <ol>
+ {% for item in item.chapters %}
  <li>{{ item.name }}</li>
  {% endfor %}
- </ul>
+ </ol>
 {% endfor %}
 </div>
