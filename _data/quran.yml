@@ -72,7 +72,54 @@ quranic_chapters:
     ayah_count: 111
     surah_number: 12
     type: Makkiyah
-
+  - name: The Thunder
+    latin_name: Ar-Ra'd
+    arabic_name: "الرّعد"
+    ayah_count: 43
+    surah_number: 13
+    type: 
+  - name: Abraham
+    latin_name: Ibrahim
+    arabic_name: "ابرٰهيم"
+    ayah_count: 52
+    surah_number: 14
+    type: Makkiyah
+  - name: The Rocky Tract
+    latin_name: Al-Hijr
+    arabic_name: "الحجر"
+    ayah_count: 99
+    surah_number: 15
+    type: Makkiyah
+  - name: The Bees
+    latin_name: An-Nahl
+    arabic_name: "النّحل"
+    ayah_count: 128
+    surah_number: 16
+    type: Makkiyah
+  - name: The Night Journey
+    latin_name: Al-Isra'
+    arabic_name: "الاسراۤء"
+    ayah_count: 111
+    surah_number: 17
+    type: Makkiyah
+  - name: The Cave
+    latin_name: Al-Kahf
+    arabic_name: "الكهف"
+    ayah_count: 110
+    surah_number: 18
+    type: Makkiyah
+  - name: Mary
+    latin_name: Maryam
+    arabic_name: "مريم"
+    ayah_count: 98
+    surah_number: 19
+    type: Makkiyah
+  - name: Ta Ha
+    latin_name: Ta ha
+    arabic_name: "طٰهٰ"
+    ayah_count: 135
+    surah_number: 20
+    type: Makkiyah
 
 #Quranic Juz/Para
 quranic_juz:
