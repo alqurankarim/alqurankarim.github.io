@@ -9,12 +9,12 @@ title: Al-Qur'an Al-Karim
     <tbody>
      {% for item in site.data.quran.quranic_chapters %}
         <tr>
-            <td class="uk-text-center">{{ item.surah_number}}</td>
-            <td>{{ item.arabic_name }}</td>
+            <td class="uk-text-center">{{ item.surah_number}}</td>            
             <td>
               {{ item.latin_name }} <br/>
               {{ item.name }} | {{ item.type }} | {{ item.ayah_count }} Ayahs
             </td>
+            <td dir="rtl">{{ item.arabic_name }}</td>
         </tr>
      {% endfor %}
     </tbody>
