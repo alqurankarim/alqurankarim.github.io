@@ -37,6 +37,53 @@ chapters:
     type: Madaniyah
 
 
+types:
+  - title: Makkiyah
+    en_title: Meccan
+    chapters:
+      - name: Al-Fatihah (The Opening)
+      - name: Al-An'am (The Cattle)
+      - name: Al-A'raf (The Heights)
+      - name: Yunus (Jonah)
+      - name: Hud (Hud)
+      - name: Yusuf (Joseph)
+      - name: Ibrahim (Abraham)
+      - name: Al-Hijr (The Rocky Tract)
+      - name: An-Nahl (The Bees)
+      - name: Al-Isra (The Night Journey)  
+  - title: Madaniyah
+    en_title: Medinan
+    chapters:
+      - name: Al-Baqarah (The Cow)
+      - name: Al-Imran (The Family of Imran)
+      - name: An-Nisa (The Women)
+      - name: Al-Maidah (The Table spread with Food)
+      - name: Al-Anfal (The Spoils of War)
+      - name: At-Taubah (The Repentance)
+      - name: Ar-Ra'd (The Thunder)
+      - name: Al-Hajj (The Pilgrimage)
+      - name: An-Noor (The Light)
+      - name: Al-Ahzab (The Combined Forces)
+      - name: Muhammad
+      - name: Al-Fath (The Victory)
+      - name: Al-Hujurat (The Dwellings)
+      - name: Ar-Rahman (The Most Graciouse)  
+      - name: Al-Hadid (The Iron)
+      - name: Al-Mujadilah (She That Disputeth)
+      - name: Al-Hashr (The Gathering)
+      - name: Al-Mumtahanah (The Woman to be examined)
+      - name: As-Saff (The Row)
+      - name: Al-Jumu'ah (Friday)
+      - name: Al-Munafiqoon (The Hypocrites)
+      - name: At-Taghabun (Mutual Loss & Gain)
+      - name: At-Talaq (The Divorce)
+      - name: At-Tahrim (The Prohibition)
+      - name: Al-Insan (Man)
+      - name: Al-Bayyinah (The Clear Evidence)
+      - name: Az-Zalzalah (The Earthquake)
+      - name: An-Nasr (The Help)
+
+
 #Surahs
 surah1:
 - name: The Opening
