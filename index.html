@@ -4,16 +4,16 @@ title: Al-Qur'an Al-Karim
 ---
 <div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
 <div class="uk-overflow-auto">
-<table class="uk-table">
+<table class="uk-table uk-text-bold">
     <tbody>
      {% for item in site.data.quran.quranic_chapters %}
         <tr>
-            <td class="uk-text-center">{{ item.surah_number}}</td>            
+            <td class="uk-text-center"><a href="{{ site.url }}{{ item.surah_number }}">{{ item.surah_number }}</a></td>            
             <td>
-              {{ item.latin_name }} <br/>
-              {{ item.name }}
+              <a href="{{ site.url }}{{ item.surah_number }}">{{ item.latin_name }} <br/>
+              {{ item.name }}</a>
             </td>
-            <td dir="rtl">{{ item.arabic_name }}</td>
+            <td dir="rtl"><a href="{{ site.url }}{{ item.surah_number }}">{{ item.arabic_name }}</a></td>
         </tr>
      {% endfor %}
     </tbody>
