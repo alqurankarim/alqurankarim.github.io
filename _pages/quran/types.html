@@ -1,0 +1,15 @@
+---
+layout: default
+title: Meccan & Medinan Chapters
+permalink: /types
+---
+<div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
+{% for item in site.data.quran.types %}
+ <h3>{{ item.title }}</h3>
+ <ul>
+ {% for item in item.subfolderitems %}
+ <li>{{ item.name }}</li>
+ {% endfor %}
+ </ul>
+{% endfor %}
+</div>
