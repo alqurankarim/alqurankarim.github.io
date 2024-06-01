@@ -1,4 +1,38 @@
-#Quranic Juz 
+#Quranic Chapters
+quranic_chapters:
+  - name: The Opening
+    latin_name: Al-Fatihah
+    arabic_name: الفاتحة
+    ayah_count: 7
+    surah_number: 1
+    type: Makkiyah
+  - name: The Cow
+    latin_name: Al-Baqarah
+    arabic_name: البقرة
+    ayah_count: 286
+    surah_number: 2
+    type: Madaniyah
+  - name: The Family of 'Imran
+    latin_name: Aal 'Imran
+    arabic_name: اٰل عمرٰن
+    ayah_count: 200
+    surah_number: 3
+    type: Madaniyah
+  - name: The Women
+    latin_name: An-Nisa'
+    arabic_name: النّساۤء
+    ayah_count: 176
+    surah_number: 4
+    type: Madaniyah
+  - name: The Table spread with Food
+    latin_name: Al-Ma'idah
+    arabic_name: الماۤئدة
+    ayah_count: 120
+    surah_number: 5
+    type: Madaniyah
+
+
+#Quranic Juz/Para
 quranic_juz:
   - juz: 1
     surahs: Al-Fatihah (1-7), Al-Baqarah (1-141)
@@ -53,7 +87,7 @@ quranic_juz:
   - juz: 26
     surahs: Al-Ahqaf (1-35), Muhammad (1-38), Al-Fath (1-29), Al-Hujurat (1-18), Qaf (1-45), Adh-Dhariyat (1-30)
   - juz: 27
-    surahs: Al-Dhariyat (31-60), At-Thur (1-49), An-Najm (1-62), Al-Qamar (1-55), Ar-Rahman (1-78), Al-Waqi'ah (1-96), Al-Hadid (1-29)
+    surahs: Adh-Dhariyat (31-60), At-Thur (1-49), An-Najm (1-62), Al-Qamar (1-55), Ar-Rahman (1-78), Al-Waqi'ah (1-96), Al-Hadid (1-29)
   - juz: 28
     surahs: Al-Mujadilah (1-22), Al-Hasr (1-24), Al-Mumtahanah (1-13), As-Saff (1-14), Al-Jumu'ah (1-11), Al-Munafiqun (1-11), At-Taghabun (1-18), At-Talaq (1-12), At-Tahrim (1-12)
   - juz: 29
@@ -62,46 +96,8 @@ quranic_juz:
     surahs: An-Naba' (1-40), An-Naziat (1-46), Abasa (1-42), At-Takwir (1-29), Al-Infitar (1-19), Al-Mutaffifin (1-36), Al-Inshiqaq (1-25), Al-Buruj (1-22), At-Tariq (1-17), Al-A'la (1-19), Al-Ghashiyah (1-26), Fajr (1-30), Al-Balad (1-20), Ash-Shams (1-15), Al-Layl (1-21), Adh-Dhuha (1-11), Ash-Sharh (1-8), At-Tin (1-8), Al-'Alaq (1-19), Al-Qadr (1-5), Al-Bayyinah (1-8), Al-Zalzalah (1-8), Al-'Adiyat (1-11), Al-Qari'ah (1-11), At-Takathur (1-8), Al-'Asr (1-3), Al-Humazah (1-9), Al-Fil (1-5), Al-Quraish (1-4), Al-Ma'un (1-7), Al-Kawthar (1-3), Al-Kafirun (1-6), An-Nasr (1-3), Al-Masad (1-5), Al-Ikhlas (1-4), Al-Falaq (1-5), An-Nas (1-6)
 
 
-#Quranic Chapters
-quranic_chapters:
-  - name: The Opening
-    latin_name: Al-Fatihah
-    arabic_name: الفاتحة
-    ayah_count: 7
-    surah_number: 1
-    juz: 1
-    type: Makkiyah
-  - name: The Cow
-    latin_name: Al-Baqarah
-    arabic_name: البقرة
-    ayah_count: 286
-    surah_number: 2
-    juz: 1-3
-    type: Madaniyah
-  - name: The Family of 'Imran
-    latin_name: Aal 'Imran
-    arabic_name: اٰل عمرٰن
-    ayah_count: 200
-    surah_number: 3
-    juz: 3-4
-    type: Madaniyah
-  - name: The Women
-    latin_name: An-Nisa'
-    arabic_name: النّساۤء
-    ayah_count: 176
-    surah_number: 4
-    juz: 5-6
-    type: Madaniyah
-  - name: The Table spread with Food
-    latin_name: Al-Ma'idah
-    arabic_name: الماۤئدة
-    ayah_count: 120
-    surah_number: 5
-    juz: 6-7
-    type: Madaniyah
-
-
-types:
+#Quranic type
+type:
   - title: Makkiyah
     en_title: Meccan
     chapters:
@@ -114,29 +110,29 @@ types:
       - name: Ibrahim (Abraham)
       - name: Al-Hijr (The Rocky Tract)
       - name: An-Nahl (The Bees)
-      - name: Al-Isra (The Night Journey)  
+      - name: Al-Isra' (The Night Journey)  
       - name: Al-Kahf (The Cave)
       - name: Maryam (Mary)
       - name: Ta Ha
-      - name: Al-Anbiya (The Prophets)
-      - name: Al-Mu'minoon (The Believers)
+      - name: Al-Anbiya' (The Prophets)
+      - name: Al-Mu'minun (The Believers)
       - name: Al-Furqan (The Criterion)
       - name: Ash-Shuara (The Poets)
       - name: An-Naml (The Ants)
       - name: Al-Qasas (The Stories)
-      - name: Al-Ankaboot (The Spider)
+      - name: Al-'Ankabut (The Spider)
       - name: Ar-Room (The Romans)
       - name: Luqman
       - name: As-Sajdah (The Prostration)
-      - name: Saba (Sheba)
+      - name: Saba' (Sheba)
       - name: Fatir (The Orignator)
       - name: Ya Sin
-      - name: As-Saaffat (Those Ranges in Ranks)
+      - name: As-Saffat (Those Ranges in Ranks)
       - name: Sad (The Letter Sad)
       - name: Az-Zumar (The Groups)
       - name: Ghafir (The Forgiver God)
       - name: Fussilat (Explained in Detail)
-      - name: Ash-Shura (Consultation)
+      - name: Ash-Shura' (Consultation)
       - name: Az-Zukhruf (The Gold Adornment)
       - name: Ad-Dukhan (The Smoke)
       - name: Al-Jathiyah (Crouching)
@@ -149,9 +145,9 @@ types:
       - name: Al-Waqi'ah (The Inevitable)
       - name: Al-Mulk (Dominion)
       - name: Al-Qalam (The Pen)
-      - name: Al-Haaqqah (The Inevitable)
+      - name: Al-Haqqah (The Inevitable)
       - name: Al-Ma'arij (The Ways of Ascent)
-      - name: Nooh (Noah)
+      - name: Nuh (Noah)
       - name: Al-Jinn (The Jinn)
       - name: Al-Muzzammil (The One wrapped in Garments)
       - name: Al-Muddaththir (The One Enveloped)
@@ -164,7 +160,7 @@ types:
       - name: Al-Infitar (The Cleaving)
       - name: Al-Mutaffifin (Those Who Deal in Fraud)
       - name: Al-Inshiqaq (The Splitting Asunder)
-      - name: Al-Burooj (The Big Stars)
+      - name: Al-Buruj (The Big Stars)
       - name: At-Tariq (The Night-Comer)
       - name: Al-A'la (The Most High)
       - name: Al-Ghashiya (The Overwhelming)
@@ -172,12 +168,12 @@ types:
       - name: Al-Balad (The City)
       - name: Ash-Shams (The Sun)
       - name: Al-Layl (The Night)
-      - name: Ad-Dhuha (The Forenoon)
+      - name: Adh-Dhuha (The Forenoon)
       - name: As-Sharh (The Opening Forth)
       - name: At-Tin (The Fig)
       - name: Al-'alaq (The Clot)
       - name: Al-Qadr (The Night of Decree)
-      - name: Al-'adiyat (Those That Run)
+      - name: Al-'Adiyat (Those That Run)
       - name: Al-Qari'ah (The Calamity)
       - name: At-Takathur (The piling Up)
       - name: Al-Asr (The Time)
@@ -186,7 +182,7 @@ types:
       - name: Quraish
       - name: Al-Ma'un (Small Kindnesses)
       - name: Al-Kauther (A River in Paradise)
-      - name: Al-Kafiroon (The Disbelievers)
+      - name: Al-Kafirun (The Disbelievers)
       - name: Al-Masad (The Palm Fibre)
       - name: Al-Ikhlas (Sincerity)
       - name: Al-Falaq (The Daybreak)
@@ -195,14 +191,14 @@ types:
     en_title: Medinan
     chapters:
       - name: Al-Baqarah (The Cow)
-      - name: Al-Imran (The Family of Imran)
-      - name: An-Nisa (The Women)
+      - name: Aal 'Imran (The Family of Imran)
+      - name: An-Nisa' (The Women)
       - name: Al-Maidah (The Table spread with Food)
       - name: Al-Anfal (The Spoils of War)
       - name: At-Taubah (The Repentance)
       - name: Ar-Ra'd (The Thunder)
       - name: Al-Hajj (The Pilgrimage)
-      - name: An-Noor (The Light)
+      - name: An-Nur (The Light)
       - name: Al-Ahzab (The Combined Forces)
       - name: Muhammad
       - name: Al-Fath (The Victory)
@@ -214,7 +210,7 @@ types:
       - name: Al-Mumtahanah (The Woman to be examined)
       - name: As-Saff (The Row)
       - name: Al-Jumu'ah (Friday)
-      - name: Al-Munafiqoon (The Hypocrites)
+      - name: Al-Munafiqun (The Hypocrites)
       - name: At-Taghabun (Mutual Loss & Gain)
       - name: At-Talaq (The Divorce)
       - name: At-Tahrim (The Prohibition)
@@ -224,14 +220,14 @@ types:
       - name: An-Nasr (The Help)
 
 
-#Surahs
+# Al-fatihah
 surah1:
 - name: The Opening
   surah_number: 1
+  total_ayah: 7
   latin_name: Al-Fatihah
   arabic_name: الفاتحة
-  type: Makkiyah
-  ayah_count: 7
+  type: Makkiyah 
   audio_surah: https://server8.mp3quran.net/afs/001.mp3
   translation: Muhsin Khan
   ayahs:
@@ -241,42 +237,49 @@ surah1:
      transliteration: Bismillāhir-raḥmānir-raḥīm
      en: In the Name of Allah, the Most Gracious, the Most Merciful.
      ayah_audio: 001001.mp3
+     juz: 1
    - ayah_number: 2
      img: 1_2.png
      ar: اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ
      transliteration: Al-ḥamdu lillāhi rabbil-'ālamīn
      en: All the praises and thanks be to Allah, the Lord of the Alamin (mankind, jinn and all that exists).
      ayah_audio: 001002.mp3
+     juz: 1
    - ayah_number: 3
      img: 1_3.png
      ar: الرَّحْمٰنِ الرَّحِيْمِۙ      
      transliteration: 
      en: The Most Gracious, the Most Merciful.
      ayah_audio: 001003.mp3
+     juz: 1
    - ayah_number: 4
      img: 1_4.png
      ar: مٰلِكِ يَوْمِ الدِّيْنِۗ      
      transliteration: 
      en: The Only Owner (and the Only Ruling Judge) of the Day of Recompense (i.e. the Day of Resurrection)
      ayah_audio: 001004.mp3
+     juz: 1
    - ayah_number: 5
      img: 1_5.png
      ar: اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ     
      transliteration: 
      en: You (Alone) we worship, and You (Alone) we ask for help (for each and everything).
      ayah_audio: 001005.mp3
+     juz: 1
    - ayah_number: 6
      img: 1_6.png
      ar: اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَ ۙ     
      transliteration: 
      en: Guide us to the Straight Way.
      ayah_audio: 001006.mp3
+     juz: 1
    - ayah_number: 7
      img: 1_7.png
      ar: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ     
      transliteration: 
      en: The Way of those on whom You have bestowed Your Grace , not (the way) of those who earned Your Anger (i.e. those who knew the Truth, but did not follow it) nor of those who went astray (i.e. those who did not follow the Truth out of ignorance and error).
      ayah_audio: 001007.mp3
+     juz: 1
 
 
 surahs:
