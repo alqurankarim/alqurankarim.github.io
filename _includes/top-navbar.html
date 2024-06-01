@@ -1,14 +1,14 @@
 <nav class="uk-fixed-navigation uk-navbar-container" uk-navbar>
   <div class="nav-overlay uk-navbar-left">
-   <a uk-icon="icon: arrow-left; ratio: 1" class="uk-navbar-toggle" href="{{ "/" | relative_url }}"></a>
+   <a uk-icon="icon: arrow-left; ratio: 2" class="uk-navbar-toggle" href="{{ "/" | relative_url }}"></a>
   </div>
   <div class="nav-overlay uk-navbar-right">
         <div uk-form-custom="target: > * > span:first-child">
             <select aria-label="Custom controls">
-             {% for item in site.data.quran.quranic_chapters %}
-               <option value="">Select Surah</option>
-               <option value="{{ site.url }}/{{ item.surah_number }}">{{ item.surah_number }}. {{ item.latin_name }} ({{ item.ayah_count }})</option>
-             {% endfor %}
+              <option value="">Select Surah</option>
+              {% for item in site.data.quran.quranic_chapters %}               
+              <option value="{{ site.url }}/{{ item.surah_number }}">{{ item.surah_number }}. {{ item.latin_name }} ({{ item.ayah_count }})</option>
+              {% endfor %}
             </select>
             <button class="uk-button uk-button-link" tabindex="-1">
                 <span></span>
