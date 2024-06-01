@@ -14,7 +14,7 @@ quranic_chapters:
     type: Madaniyah
   - name: The Family of 'Imran
     latin_name: Aal 'Imran
-    arabic_name: اٰل عمرٰن
+    arabic_name: "آل عمران"
     ayah_count: 200
     surah_number: 3
     type: Madaniyah
@@ -59,6 +59,18 @@ quranic_chapters:
     arabic_name: "يونس"
     ayah_count: 109
     surah_number: 10
+    type: Makkiyah
+  - name: Hud
+    latin_name: Hud
+    arabic_name: "هود"
+    ayah_count: 123
+    surah_number: 11
+    type: Makkiyah
+  - name: Joseph
+    latin_name: Yusuf
+    arabic_name: "يوسف"
+    ayah_count: 111
+    surah_number: 12
     type: Makkiyah
 
 
