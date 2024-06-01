@@ -1,4 +1,21 @@
-#Chapters
+#Quranic Juz 
+juz:
+  - juz: 1
+    surahs: Al-Fatihah (1-7), Al-Baqarah (1-141)
+  - juz: 2
+    surahs: Al-Baqarah (142-252)
+  - juz: 3
+    surahs: Al-Baqarah (253-286), Aal 'Imran (1-91)
+  - juz: 4
+    surahs: Aal 'Imran (92-200), An-Nisa' (1-23)
+  - juz: 5
+    surahs: An-Nisa' (24-147)
+  - juz: 6
+    surahs: An-Nisa' (148-176), Al-Ma'idah (1-81)
+  - juz: 7
+    surahs: 
+
+#Quranic Chapters
 chapters:
   - name: The Opening
     latin_name: Al-Fatihah
