@@ -4,6 +4,24 @@ title: Meccan & Medinan Chapters
 permalink: /types
 ---
 <div class="uk-container uk-margin-medium-top uk-margin-medium-bottom"> 
+<h3>Qur'qnic Juz</h3>
+<table class="uk-table uk-table-striped">
+    <thead>
+        <tr>
+            <th>Juz Number</th>
+            <th>Surahs</th>
+        </tr>
+    </thead> 
+    <tbody>
+     {% for item in site.data.quran.quranic_juz %}
+        <tr>
+            <td>{{ item.juz }}</td>
+            <td>{{ item.surahs }}</td>
+        </tr>
+     {% endfor %}
+    </tbody>
+</table>
+
 {% for item in site.data.quran.types %}
  <h3>{{ item.title }}</h3>
  <ul class="uk-list uk-list-decimal">
