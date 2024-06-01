@@ -1,5 +1,5 @@
 #Quranic Juz 
-juz:
+quranic_juz:
   - juz: 1
     surahs: Al-Fatihah (1-7), Al-Baqarah (1-141)
   - juz: 2
@@ -13,10 +13,17 @@ juz:
   - juz: 6
     surahs: An-Nisa' (148-176), Al-Ma'idah (1-81)
   - juz: 7
-    surahs: 
+    surahs: Al-Ma'idah (82-120), Al-An'am (1-110)
+  - juz: 8
+    surahs: Al-An'am (111-165), Al-A'raf (1-87)
+  - juz: 9
+    surahs: Al-A'raf (88-206), Al-Anfal (1-40)
+  - juz: 10
+    surahs: Al-Anfal (41-75), At-Taubah (1-92)
+
 
 #Quranic Chapters
-chapters:
+quranic_chapters:
   - name: The Opening
     latin_name: Al-Fatihah
     arabic_name: الفاتحة
@@ -55,8 +62,8 @@ chapters:
 
 
 types:
-  - title: Makkiyah Chapters
-    en_title: Meccan Chapters
+  - title: Makkiyah
+    en_title: Meccan
     chapters:
       - name: Al-Fatihah (The Opening)
       - name: Al-An'am (The Cattle)
@@ -144,8 +151,8 @@ types:
       - name: Al-Ikhlas (Sincerity)
       - name: Al-Falaq (The Daybreak)
       - name: An-Nas (Mankind)      
-  - title: Madaniyah Chapters
-    en_title: Medinan Chapters
+  - title: Madaniyah
+    en_title: Medinan
     chapters:
       - name: Al-Baqarah (The Cow)
       - name: Al-Imran (The Family of Imran)
