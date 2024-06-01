@@ -354,12 +354,132 @@ quranic_chapters:
     ayah_count: 24
     surah_number: 59
     type: Madaniyah
-  - name: The Woman to be examined
+  - name: The Woman To Be Examined
     latin_name: Al-Mumtahanah
     arabic_name: "الممتحنة"
     ayah_count: 13
     surah_number: 60
     type: Madaniyah
+  - name: The Row
+    latin_name: Al-Saff
+    arabic_name: "الصّفّ"
+    ayah_count: 14
+    surah_number: 61
+    type: Madaniyah
+  - name: Friday
+    latin_name: Al-Jumu'ah
+    arabic_name: "الجمعة"
+    ayah_count: 11
+    surah_number: 62
+    type: Madaniyah
+  - name: The Hypocrites
+    latin_name: Al-Munafiqun
+    arabic_name: "المنٰفقون"
+    ayah_count: 11
+    surah_number: 63
+    type: Madaniyah
+  - name: Mutual Loss & Gain
+    latin_name: At-Taghabun
+    arabic_name: "التّغابن"
+    ayah_count: 18
+    surah_number: 64
+    type: Madaniyah
+  - name: The Divorce
+    latin_name: At-Talaq
+    arabic_name: "الطّلاق"
+    ayah_count: 12
+    surah_number: 65
+    type: Madaniyah
+  - name: The Prohibition
+    latin_name: At-Tahrim
+    arabic_name: "التّحريم"
+    ayah_count: 12
+    surah_number: 66
+    type: Madaniyah
+  - name: Dominion
+    latin_name: Al-Mulk
+    arabic_name: "المُلك"
+    ayah_count: 30
+    surah_number: 67
+    type: Makkiyah
+  - name: The Pen
+    latin_name: Al-Qalam
+    arabic_name: "القلم"
+    ayah_count: 52
+    surah_number: 68
+    type: Makkiyah
+  - name: The Inevitable
+    latin_name: Al-Haqqah
+    arabic_name: "الحاۤقّة"
+    ayah_count: 52
+    surah_number: 69
+    type: Makkiyah
+  - name: The Ways of Ascent
+    latin_name: Al-Ma'arij
+    arabic_name: "المعارج"
+    ayah_count: 44
+    surah_number: 70
+    type: Makkiyah
+  - name: Noah
+    latin_name: Nuh
+    arabic_name: "نوح"
+    ayah_count: 28
+    surah_number: 71
+    type: Makkiyah
+  - name: The Jinn
+    latin_name: Al-Jinn
+    arabic_name: "الجنّ"
+    ayah_count: 28
+    surah_number: 72
+    type: Makkiyah
+  - name: The One Wrapped In Garments
+    latin_name: Al-Muzzammil
+    arabic_name: "المزّمّل"
+    ayah_count: 20
+    surah_number: 73
+    type: Makkiyah
+  - name: The One Enveloped
+    latin_name: Al-Muddathir
+    arabic_name: "المدّثّر"
+    ayah_count: 56
+    surah_number: 74
+    type: Makkiyah
+  - name: The Resurrection
+    latin_name: Al-Qiyamah
+    arabic_name: "القيٰمة"
+    ayah_count: 40
+    surah_number: 75
+    type: Makkiyah
+  - name: Man
+    latin_name: Al-Insan
+    arabic_name: "الانسان"
+    ayah_count: 31
+    surah_number: 76
+    type: Madaniyah
+  - name: Those Sent Forth
+    latin_name: Al-Mursalat
+    arabic_name: "المرسلٰت"
+    ayah_count: 50
+    surah_number: 77
+    type: Makkiyah
+  - name: The Great News
+    latin_name: An-Naba'
+    arabic_name: "النّبأ"
+    ayah_count: 40
+    surah_number: 78
+    type: Makkiyah
+  - name: Those Who Pull Out
+    latin_name: An-Nazi'at
+    arabic_name: "النّٰزعٰت"
+    ayah_count: 46
+    surah_number: 79
+    type: Makkiyah
+  - name: He Frowned
+    latin_name: 'Abasa
+    arabic_name: "عبس"
+    ayah_count: 42
+    surah_number: 80
+    type: Makkiyah
 
 
 #Quranic Juz/Para
