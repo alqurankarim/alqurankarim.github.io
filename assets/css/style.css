@@ -19,7 +19,7 @@ html{
     --section: #546d78;
 }
 html[data-theme='dark'] {
-    --bg: #111;
+    --bg: #000100;
     --color-heading: #0077ff; 
     --color-text: #d9d9d9;
     --bg-navbar: #111;
@@ -194,6 +194,10 @@ html {
 }
 html, body { 
     background-color: var(--bg) !important;
+    color: var(--color-text) !important;
+}
+.uk-card {
+    background-color: var(--bg-card) !important;
     color: var(--color-text) !important;
 }
 .dynamic-content { display:none; }    
