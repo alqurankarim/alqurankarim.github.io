@@ -196,7 +196,7 @@ html, body {
     background-color: var(--bg) !important;
     color: var(--color-text) !important;
 }
-.uk-card {
+.uk-card, .uk-card-default, .uk-card-body {
     background-color: var(--bg-card) !important;
     color: var(--color-text) !important;
 }
