@@ -115,11 +115,72 @@ quranic_chapters:
     surah_number: 19
     type: Makkiyah
   - name: Ta Ha
-    latin_name: Ta ha
+    latin_name: Ta Ha
     arabic_name: "طٰهٰ"
     ayah_count: 135
     surah_number: 20
     type: Makkiyah
+  - name: The Prophets
+    latin_name: Al-Anbiya'
+    arabic_name: "الانبياۤء"
+    ayah_count: 112
+    surah_number: 21
+    type: Makkiyah
+  - name: The Pilgrimage
+    latin_name: Al-Hajj
+    arabic_name: "الحجّ"
+    ayah_count: 78
+    surah_number: 22
+    type: Madaniyah
+  - name: The Believers
+    latin_name: Al-Mu'minun
+    arabic_name: "المؤمنون"
+    ayah_count: 118
+    surah_number: 23
+    type: Makkiyah
+  - name: The Light
+    latin_name: An-Nur
+    arabic_name: "النّور"
+    ayah_count: 64
+    surah_number: 24
+    type: Madaniyah
+  - name: The Criterion
+    latin_name: Al-Furqan
+    arabic_name: "الفرقان"
+    ayah_count: 77
+    surah_number: 25
+    type: Madaniyah
+  - name: The Poets
+    latin_name: Ash-Shu'ara
+    arabic_name: "الشّعراۤء"
+    ayah_count: 227
+    surah_number: 26
+    type: Makkiyah
+  - name: The Ants
+    latin_name: An-Naml
+    arabic_name: "النّمل"
+    ayah_count: 93
+    surah_number: 27
+    type: Makkiyah
+  - name: The Stories
+    latin_name: Al-Qasas
+    arabic_name: "القصص"
+    ayah_count: 88
+    surah_number: 28
+    type: Makkiyah
+  - name: The Spider
+    latin_name: Al-'Ankabut
+    arabic_name: "العنكبوت"
+    ayah_count: 69
+    surah_number: 29
+    type: Makkiyah
+  - name: The Romans
+    latin_name: Ar-Rum
+    arabic_name: "الرّوم"
+    ayah_count: 60
+    surah_number: 30
+    type: Makkiyah
+
 
 #Quranic Juz/Para
 quranic_juz:
