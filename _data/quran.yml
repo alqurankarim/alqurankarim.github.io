@@ -1,3 +1,43 @@
+#Chapters
+chapters:
+  - name: The Opening
+    latin_name: Al-Fatihah
+    arabic_name: الفاتحة
+    ayah_count: 7
+    surah_number: 1
+    juz: 1
+    type: Makkiyah
+  - name: The Cow
+    latin_name: Al-Baqarah
+    arabic_name: البقرة
+    ayah_count: 286
+    surah_number: 2
+    juz: 1-3
+    type: Madaniyah
+  - name: The Family of 'Imran
+    latin_name: Aal 'Imran
+    arabic_name: اٰل عمرٰن
+    ayah_count: 200
+    surah_number: 3
+    juz: 3-4
+    type: Madaniyah
+  - name: The Women
+    latin_name: An-Nisa'
+    arabic_name: النّساۤء
+    ayah_count: 176
+    surah_number: 4
+    juz: 5-6
+    type: Madaniyah
+  - name: The Table spread with Food
+    latin_name: Al-Ma'idah
+    arabic_name: الماۤئدة
+    ayah_count: 120
+    surah_number: 5
+    juz: 6-7
+    type: Madaniyah
+
+
+#Surahs
 surah1:
 - name: The Opening
   surah_number: 1
