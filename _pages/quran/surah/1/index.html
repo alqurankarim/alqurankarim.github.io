@@ -6,10 +6,6 @@ permalink: /1
  <div id="default-content" class="dynamic-content">
  {% for item in site.data.quran.surah1 %}
  <h3>{{ item.latin_name }} ({{ item.name }})</h3>
- <div class="mediPlayer">
-  <audio class="listen" preload="none" data-size="18" src="{{ item.audio_surah }}"></audio>
- </div>
- <hr/>
   {% for item in item.ayahs %}
  <div class="uk-card uk-card-default uk-card-hover uk-margin">
   <div class="uk-card-body">
@@ -21,7 +17,6 @@ permalink: /1
     </div>
     <div class="uk-float-right">
         <div dir="rtl">
-         <img loading="lazy" src="https://everyayah.com/data/images_png/{{ item.img }}" uk-img>
          <h3 class="uk-card-title uk-text-bold">
           {{ item.ar }}
          </h3>  
