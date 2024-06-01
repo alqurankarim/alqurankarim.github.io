@@ -216,13 +216,90 @@ quranic_chapters:
     ayah_count: 83
     surah_number: 36
     type: Makkiyah
-  - name: Ya Sin
-    latin_name: Ya Sin
+  - name: Those Ranges in Ranks
+    latin_name: As-Saffat
     arabic_name: "الصّٰۤفّٰت"
     ayah_count: 182
     surah_number: 37
     type: Makkiyah
-
+  - name: The Letter Sad
+    latin_name: Sad
+    arabic_name: "صۤ"
+    ayah_count: 88
+    surah_number: 38
+    type: Makkiyah
+  - name: The Groups
+    latin_name: Az-Zumar
+    arabic_name: "الزّمر"
+    ayah_count: 75
+    surah_number: 39
+    type: Makkiyah
+  - name: The Forgiver God
+    latin_name: Ghafir
+    arabic_name: "غافر"
+    ayah_count: 85
+    surah_number: 40
+    type: Makkiyah
+  - name: Explained In Detail
+    latin_name: Fussilat
+    arabic_name: "فصّلت"
+    ayah_count: 54
+    surah_number: 41
+    type: Makkiyah
+  - name: Consultation
+    latin_name: Ash-Shura'
+    arabic_name: "الشّورٰى"
+    ayah_count: 53
+    surah_number: 42
+    type: Makkiyah
+  - name: The Gold Adornment
+    latin_name: Az-Zukhruf
+    arabic_name: "الزّخرف"
+    ayah_count: 89
+    surah_number: 43
+    type: Makkiyah
+  - name: The Smoke
+    latin_name: Ad-Dukhan
+    arabic_name: "الدّخان"
+    ayah_count: 59
+    surah_number: 44
+    type: Makkiyah
+  - name: Crouching
+    latin_name: Al-Jathiyah
+    arabic_name: "الجاثية"
+    ayah_count: 37
+    surah_number: 45
+    type: Makkiyah
+  - name: The Curved Sand-hills
+    latin_name: Al-Ahqaf
+    arabic_name: "الاحقاف"
+    ayah_count: 35
+    surah_number: 46
+    type: Makkiyah
+  - name: Muhammad
+    latin_name: Muhammad
+    arabic_name: "محمّد"
+    ayah_count: 38
+    surah_number: 47
+    type: Madaniyah
+  - name: The Victory
+    latin_name: Al-Fath
+    arabic_name: "الفتح"
+    ayah_count: 29
+    surah_number: 48
+    type: Madaniyah
+  - name: The Dwellings
+    latin_name: Al-Hujurat
+    arabic_name: "الحجرٰت"
+    ayah_count: 18
+    surah_number: 49
+    type: Madaniyah
+  - name: The Letter Qaf
+    latin_name: Qaf
+    arabic_name: "قۤ"
+    ayah_count: 45
+    surah_number: 50
+    type: Makkiyah
 
 
 #Quranic Juz/Para
