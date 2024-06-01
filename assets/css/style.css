@@ -201,6 +201,9 @@ html, body {
 p, h3, .uk-card-title {
     color: var(--color-text) !important;
 }
+.Custom controls {
+    color: var(--color-text) !important;
+}
 .dynamic-content { display:none; }    
 .ar {
   font-family: "IBM Plex Sans Arabic", sans-serif;
